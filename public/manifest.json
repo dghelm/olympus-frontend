@@ -3,7 +3,7 @@
   "start_url": ".",
   "homepage": "./",
   "name": "OlympusDAO UNOFFICIAL",
-  "description": "",
+  "description": "Decentralized reserve currency protocol",
   "launch_path": "/public/index.html",
   "icons": [
     {
@@ -25,5 +25,5 @@
   "display": "browser",
   "theme_color": "#000000",
   "background_color": "#ffffff",
-  "skylink": ""
+  "skylink": "AQD0mewy_yX9KPI1zDTBi1LQuAXM3xWN7dKORLxTtwCEpQ"
 }
