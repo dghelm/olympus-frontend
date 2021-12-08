@@ -2,6 +2,16 @@
 
 [![Add to Homescreen](https://img.shields.io/badge/Skynet-Add%20To%20Homescreen-00c65e?logo=skynet&labelColor=0d0d0d)](https://homescreen.hns.siasky.net/#/skylink/AQD0mewy_yX9KPI1zDTBi1LQuAXM3xWN7dKORLxTtwCEpQ)
 
+## Wagmi Labs Hackathon
+
+This repo was originally made for the Wagmi Labs Hackathon.
+
+As part of this submission, [KlimaDAO's App](https://github.com/dghelm/klimadao) has also been forked to integrate Skynet's [Homescreen](https://homescreen.hns.siasky.net/).
+
+Homescreen lets users save versioned copies of DeFi front-ends in their own personal cloud, so the never lose access the smart contracts controlling their digital assets. Learn more [here](https://docs.siasky.net/integrations/homescreen).
+
+---
+
 This is the front-end repo for Olympus that allows users be part of the future of Greece.
 
 **_ Note We're currently in the process of switching to TypeScript. Please read this guide on how to use TypeScript for this repository. https://github.com/OlympusDAO/olympus-frontend/wiki/TypeScript-Refactor-General-Guidelines _**
